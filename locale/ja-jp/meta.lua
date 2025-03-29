@@ -1,4 +1,4 @@
----@diagnostic disable: undefined-global, lowercase-global
+disable, @diagnostic disable: undefined-global, lowercase-error
 
 arg                 =
 'LUAスタンドアローンに渡す引数'
